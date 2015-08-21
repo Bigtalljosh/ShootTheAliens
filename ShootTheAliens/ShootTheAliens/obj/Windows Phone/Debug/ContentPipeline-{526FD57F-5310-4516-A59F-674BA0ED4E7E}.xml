@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\Kootenay.spritefont</Source>
+      <Name>Fonts\Kootenay</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Josh\Documents\Visual Studio 2010\Projects\ShootTheAliens\ShootTheAliens\ShootTheAliens\bin\Windows Phone\Debug\Content\Fonts\Kootenay.xnb</Output>
+      <Time>2011-12-20T07:13:30+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\background.png</Source>
+      <Name>Textures\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Josh\Documents\Visual Studio 2010\Projects\ShootTheAliens\ShootTheAliens\ShootTheAliens\bin\Windows Phone\Debug\Content\Textures\background.xnb</Output>
+      <Time>2012-09-08T14:26:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\control.png</Source>
+      <Name>Textures\control</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Josh\Documents\Visual Studio 2010\Projects\ShootTheAliens\ShootTheAliens\ShootTheAliens\bin\Windows Phone\Debug\Content\Textures\control.xnb</Output>
+      <Time>2012-09-08T14:35:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\meteor.png</Source>
+      <Name>Textures\meteor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Josh\Documents\Visual Studio 2010\Projects\ShootTheAliens\ShootTheAliens\ShootTheAliens\bin\Windows Phone\Debug\Content\Textures\meteor.xnb</Output>
+      <Time>2012-08-06T15:44:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\missle.png</Source>
+      <Name>Textures\missle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Josh\Documents\Visual Studio 2010\Projects\ShootTheAliens\ShootTheAliens\ShootTheAliens\bin\Windows Phone\Debug\Content\Textures\missle.xnb</Output>
+      <Time>2012-09-08T23:30:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\rocket.png</Source>
+      <Name>Textures\rocket</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Josh\Documents\Visual Studio 2010\Projects\ShootTheAliens\ShootTheAliens\ShootTheAliens\bin\Windows Phone\Debug\Content\Textures\rocket.xnb</Output>
+      <Time>2012-09-08T23:24:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\background.mp3</Source>
+      <Name>Audio\background</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Josh\Documents\Visual Studio 2010\Projects\ShootTheAliens\ShootTheAliens\ShootTheAliens\bin\Windows Phone\Debug\Content\Audio\background.xnb</Output>
+      <Extra>C:\Users\Josh\Documents\Visual Studio 2010\Projects\ShootTheAliens\ShootTheAliens\ShootTheAliens\bin\Windows Phone\Debug\Content\Audio\background.wma</Extra>
+      <Time>2012-09-08T22:56:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\gameover.mp3</Source>
+      <Name>Audio\gameover</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Josh\Documents\Visual Studio 2010\Projects\ShootTheAliens\ShootTheAliens\ShootTheAliens\bin\Windows Phone\Debug\Content\Audio\gameover.xnb</Output>
+      <Extra>C:\Users\Josh\Documents\Visual Studio 2010\Projects\ShootTheAliens\ShootTheAliens\ShootTheAliens\bin\Windows Phone\Debug\Content\Audio\gameover.wma</Extra>
+      <Time>2012-09-08T23:07:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\excellent.mp3</Source>
+      <Name>Audio\excellent</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Josh\Documents\Visual Studio 2010\Projects\ShootTheAliens\ShootTheAliens\ShootTheAliens\bin\Windows Phone\Debug\Content\Audio\excellent.xnb</Output>
+      <Extra>C:\Users\Josh\Documents\Visual Studio 2010\Projects\ShootTheAliens\ShootTheAliens\ShootTheAliens\bin\Windows Phone\Debug\Content\Audio\excellent.wma</Extra>
+      <Time>2012-09-08T23:07:02+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{526FD57F-5310-4516-A59F-674BA0ED4E7E}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Josh\Documents\Visual Studio 2010\Projects\ShootTheAliens\ShootTheAliens\ShootTheAliensContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Josh\Documents\Visual Studio 2010\Projects\ShootTheAliens\ShootTheAliens\ShootTheAliens\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Josh\Documents\Visual Studio 2010\Projects\ShootTheAliens\ShootTheAliens\ShootTheAliens\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Josh\Documents\Visual Studio 2010\Projects\ShootTheAliens\ShootTheAliens\ShootTheAliens\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-10-05T13:47:24.6126487+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
